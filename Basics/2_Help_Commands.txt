@@ -1,0 +1,10 @@
+npm - Help
+
+command 1 - npm help --> used to show what are the functions that we can do using npm
+
+command 2 - npm install -h --> used to Show What we Can Install Using npm 
+
+command 3 - npm help-search update  --> used to Show the operation that we want to perform Immediately
+				    --> It will also Give you the Ocuurences of the operation that You aree Searching for
+				    --> Used to show How you perform the opearation that you want to perform
+				    --> It will open a web page which is used to perform the Operation that you wanted

@@ -1,0 +1,13 @@
+Package Manager
+
+-> Problem => Code
+-> Same Problem => Reuse The Code
+
+-> The Individual Files Containing Reusable Code is Know as Modules
+
+-> The Package is nothing but a Directory Containig One Or More Modules
+
+-> npm stands for Node Package Manager
+
+-> If developers are getting errors in some codes which is there in npm Registry
+   They can reuse the code that you have update which doesn't have Errors

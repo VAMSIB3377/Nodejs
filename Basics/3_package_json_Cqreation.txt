@@ -1,0 +1,8 @@
+Package.json
+
+-> Manage Dependencies --> Express and Its Version
+-> Scripts --> Initial Build
+
+-> Creating Package.json file --> command 1 --> npm init - Execute the Command in Whichever location you need to Create the package.json file
+-> 							   Click on Enter button for few Which leads insert the data into the package.json file.
+

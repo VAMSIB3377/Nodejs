@@ -1,0 +1,29 @@
+Package JSON Default
+
+step 1 - Open Command Prompt
+
+Step 2 - Go to the folder where you've initialized npm
+
+Step 3 - Execute the command --> npm config set init-author-name "Vamsi_B"
+
+License - You Should Specify a Licence for your package so that people know
+	  how they are Permitted to use it, and any restrictions you're placing on it.
+
+Step 4 - Setting up the licence - Basically When You create a package.json file By Default you will get the license as in "ISC" in String Format.
+				- If You Want to Change it Default to the other License 
+				- Execute this commad --> npm set init-license "<Liscence_Name>" whichever we require on the funtionalities that we want.
+
+Step 5 - Different Types of Licences are -> 1. "BSD-3-clause" -->
+					    2. "ISC OR GPL-3.0"
+					    3. "SEE LICENSE IN <filename>"
+					    4. "ISC"
+					    5. "(MIT OR Apache-2.0)"
+					    6. "UNLICENSED"  --> Used when you do not wish to grant others the right to use a private or unpublished package under any terms.
+
+Step 6 - Execute the Commad to Create a package.json with Update Vals  --> npm init --yes
+
+Step 7 - Delete the Author and License that You've Create in which it will the default values
+		-> Commands are --> npm config delete init-author-name
+				--> npm config delete init-license
+
+Step 8 - Execute Step 6 to save and update the details

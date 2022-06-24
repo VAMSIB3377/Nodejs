@@ -1,0 +1,21 @@
+Installing Local Package
+
+Step1 - Command to install the Package Locally For a Specific Project --> npm install "<Command-Name>"
+
+Step2 - moment - it is package from init - Which is Basically a JS Date Library.
+
+Step3 - Command for Installing moment - npm install moment - will be installed in node_modules
+      - If you're trying to install more packages they will also be installed in nod_modules only.
+
+Step4 - In Older Verions the installation of Packages was executing the same Command but we were not able to see moment in our package.json file.
+      - So, we used this command to save the package into the package.json by which we will be able to see.  --> npm install moment --save - which will also add an entry to the package as "dependencies"
+
+      - But, after some of later versions they updated where the package will be saved automatically when we execute the first command itself i.e., --> npm install moment - which will also add an entry to the package as "dependencies"
+       
+
+Step5 - Tried to install Dev Package with command - init install lodash --save-dev
+      - Unable to create a devdepeendencies but the package is under dependecies entry
+
+
+Notes - 1. lodash is a dev dependency
+	2. moment is production dependency

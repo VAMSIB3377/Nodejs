@@ -6,3 +6,8 @@ Steps
 
 -- execute the command - npm uninstall <package_name> -g - now the Package will be uninstalled
 		       - Ex :- npm uninstall moment -g
+
+-- Aliases for uninstall command --> npm uninstall <package_name>
+				 --> npm remove <package_name>
+				 --> npm rm <package_name>
+				 --> npm un <package_name>

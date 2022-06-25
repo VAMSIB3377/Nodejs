@@ -16,3 +16,14 @@ NPM_Versioning
 							       - npm install <package_name>@<version> --save
 							       - Ex 1 :- npm install lodash@3.3.0
 							       - Ex 1 :- npm install moment@2.1.0
+
+- And By Executing This Cammand We dont need to specify the Latest patch Verion. We will Specify the Major and minor versions of the package that we require.
+							       - command npm install <package_name>@<major_verison>.<major_verison>
+							       - Ex 1 :- npm install moment@2.1
+							       - Ex 1 :- npm install lodash@3.3
+
+- And Also By Executing This Cammand We dont need to specify the Latest patch Verion and the Latest minor version. We will Only Specify the Major Version number of the package number that Want to install.
+							       - command npm install <package_name>@<major_verison>.<major_verison>
+							       - Ex 1 :- npm install moment@2
+							       - Ex 1 :- npm install lodash@3
+					

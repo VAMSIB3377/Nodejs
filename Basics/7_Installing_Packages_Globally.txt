@@ -1,0 +1,6 @@
+Installing_Packages_Globally
+
+Step 1 - Open cmd and Excute The Command --> npm install <package_name> -g
+				      Ex :-  npm install moment -g
+
+Note -  -g is the only that we use install any package globally

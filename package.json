@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/VAMSIB3377/Nodejs/issues"
   },
-  "homepage": "https://github.com/VAMSIB3377/Nodejs#readme"
+  "homepage": "https://github.com/VAMSIB3377/Nodejs#readme",
+  "dependencies": {
+    "moment": "^2.1.0"
+  }
 }

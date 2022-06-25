@@ -1,0 +1,18 @@
+NPM_Versioning
+
+- when we are working with npm it is really important to undertand how versioning works with packages.
+
+- this is where simantic versioning comes into picture - simantic versioning is a specification where the version is represented by 3 numbers
+  						         that means the same thing for every developer.
+						       - Where the 1st Num represents Major Verion Number
+						       - And the 2nd Num represents Minor Verion Number
+						       - And the 3nd Num represents Patch Verion Number
+													
+
+- When we try to install a package the package will be installed with the latest stable release
+
+
+- But Sometimes we may require specific version of the package - To install a Specific Verion of the package Execute the command
+							       - npm install <package_name>@<version> --save
+							       - Ex 1 :- npm install lodash@3.3.0
+							       - Ex 1 :- npm install moment@2.1.0

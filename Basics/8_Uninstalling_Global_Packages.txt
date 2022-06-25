@@ -1,0 +1,8 @@
+Uninstalling_Global_Packages
+
+Steps
+
+-- Open the cmd
+
+-- execute the command - npm uninstall <package_name> -g - now the Package will be uninstalled
+		       - Ex :- npm uninstall moment -g

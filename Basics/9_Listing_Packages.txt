@@ -1,0 +1,22 @@
+Listing_Packages
+
+
+- Some Times We Might Want to Have the list of Packages are installed Locally, Globally
+
+- To View the List The Packages Some packages must Be There in the System
+
+
+Local
+
+- Execute the Command in cmd to Show the List of Local Packages Installed --> npm list
+
+- If we execute this Command we will get the packages with no dependencies of Zero dependencies --> npm list --depth 0
+												--> --> by incressing the count of depth we can see those packages which will have many in depth dependencies
+
+
+Global
+
+- Execute the Command in cmd to Show the List of Global Packages Installed --> npm list --global true
+									  
+- Here also If we execute this Command we will get the packages with no dependencies of Zero dependencies --> npm list --global true --depth 0
+													  --> by incressing the count of depth we can see those packages which will have many in depth dependencies 				

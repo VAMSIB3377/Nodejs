@@ -1,0 +1,7 @@
+Uninstall Local Package
+
+Step 1 - Open CMD Direct to the location that you've installed the local Package.
+
+Step 2 - Execute the Command with package name that you've installed --> npm uninstall <package>- --save
+       - Based on the packages that we have installed the commands will be as follows --> npm uninstall moment --save
+										      --> npm uninstall lodash --save

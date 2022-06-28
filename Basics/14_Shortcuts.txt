@@ -1,42 +1,44 @@
 Shortcuts
 
-1>  -a: --all
+
+    -i: 	--install
+1>  -a: 	--all
 2>  --enjoy-by: --before
-3>  -c: --call
-4>  --desc: --description
-5>  -f: --force
-6>  -g: --global
-7>  --iwr: --include-workspace-root
-8>  -L: --location
-9>  -d: --loglevel info
-10> -s: --loglevel silent
-11> --silent: --loglevel silent
-12> --ddd: --loglevel silly
-13> --dd: --loglevel verbose
-14> --verbose: --loglevel verbose
-15> -q: --loglevel warn
-16> --quiet: --loglevel warn
-17> -l: --long
-18> -m: --message
-19> --local: --no-global
-20> -n: --no-yes
-21> --no: --no-yes
-22> -p: --parseable
+3>  -c: 	--call
+4>  --desc: 	--description
+5>  -f: 	--force
+6>  -g: 	--global
+7>  --iwr: 	--include-workspace-root
+8>  -L: 	--location
+9>  -d: 	--loglevel info
+10> -s: 	--loglevel silent
+11> --silent: 	--loglevel silent
+12> --ddd: 	--loglevel silly
+13> --dd: 	--loglevel verbose
+14> --verbose: 	--loglevel verbose
+15> -q: 	--loglevel warn
+16> --quiet: 	--loglevel warn
+17> -l: 	--long
+18> -m: 	--message
+19> --local: 	--no-global
+20> -n: 	--no-yes
+21> --no: 	--no-yes
+22> -p: 	--parseable
 23> --porcelain: --parseable
-24> -C: --prefix
+24> -C: 	--prefix
 25> --readonly: --read-only
-26> --reg: --registry
-27> -S: --save
-28> -B: --save-bundle
-29> -D: --save-dev
-30> -E: --save-exact
-31> -O: --save-optional
-32> -P: --save-prod
-33> -?: --usage
-34> -h: --usage
-35> -H: --usage
-36> --help: --usage
-37> -v: --version
-38> -w: --workspace
-39> --ws: --workspaces
-40> -y: --yes
+26> --reg: 	--registry
+27> -S: 	--save
+28> -B: 	--save-bundle
+29> -D: 	--save-dev
+30> -E: 	--save-exact
+31> -O: 	--save-optional
+32> -P: 	--save-prod
+33> -?: 	--usage
+34> -h: 	--usage
+35> -H: 	--usage
+36> --help: 	--usage
+37> -v: 	--version
+38> -w: 	--workspace
+39> --ws: 	--workspaces
+40> -y: 	--yes

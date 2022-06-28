@@ -19,3 +19,8 @@ Step5 - Tried to install Dev Package with command - init install lodash --save-d
 
 Notes - 1. lodash is a dev dependency
 	2. moment is production dependency
+
+
+
+-	When We are Upating We Can Follow The same Way but Instead of install we have to give update in the command as follows - npm update moment --save
+															       - npm update --savedev

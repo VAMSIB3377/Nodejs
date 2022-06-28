@@ -1,0 +1,31 @@
+15_NPM_Scripting
+
+Step 1 -  Write a JS file where the node has been installed
+
+Normally We Execute a NodeJs using the Command - node <filename.js>
+
+But Here we to Excute the code By Using npm
+
+Step 2 - In package.json file replace 'test' in 'scripts' with 'start' on L.H.S
+
+Step 3 - And on R.H.S Side replace the text with "node <file_address.js>"
+
+Step 4 - Now Excute this command in the command prompt - npm start
+       - the code will start will executing
+
+
+
+--->>> Here the Key Point is we can start a nodejs prog using 'npm start' 
+       so, we no need to go to the program location everytime and run it.
+       
+
+--->>> and in normal cases when user used to use one application he tried searching many times,
+       but he failed to get it , because creator of the app has updated its name.
+
+--->>> In the same way as like the old when we try to use through node and the programmer changes the name of
+       the program thn if we try to execute it with node using the node <filename> command we have we will get error.
+
+--->>> To Correct this we should connect the program with package.json as said above.
+       so that whenever we execute the npm command npm start there will be no errors starting the code.
+       even if the programmer changes the name of the program also code runs same. 
+

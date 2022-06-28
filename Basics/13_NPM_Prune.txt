@@ -1,0 +1,7 @@
+13_NPM_Prune
+
+-- Using Prune we can remove the unecessary modules that are created in node_modules folder when we create a project
+
+-- Those modules would be there in the node_modules folder but you can't find those modules in the packsage.json file
+
+-- Command to execute is - npm prune

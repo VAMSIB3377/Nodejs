@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node app.js"
   },
   "repository": {
     "type": "git",
@@ -16,8 +16,5 @@
   "bugs": {
     "url": "https://github.com/VAMSIB3377/Nodejs/issues"
   },
-  "homepage": "https://github.com/VAMSIB3377/Nodejs#readme",
-  "dependencies": {
-    "moment": "^1.7.2"
-  }
+  "homepage": "https://github.com/VAMSIB3377/Nodejs#readme"
 }
